@@ -1,0 +1,2 @@
+# conspitheorygen
+A conspiracies' generator!
